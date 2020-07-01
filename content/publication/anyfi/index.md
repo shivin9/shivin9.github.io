@@ -3,21 +3,21 @@
 
 title: "AnyFI- An Anytime Frequent Itemset Mining Algorithm for Data Streams"
 authors: ["Poonam Goyal, Jagat Sesh Challa, Shivin Srivastava, Navneet Goyal"]
-date: 2020-06-30T15:15:42+08:00
+date: 2017-06-30T15:15:42+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-30T15:15:42+08:00
+# publishDate: 2020-06-30T15:15:42+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "_IEEE International Conference on Big Data, Boston, MA, USA_"
+# publication_short: "Big Data (2017)"
 
 abstract: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: ublication/anyfi/anyfi.pdf
 url_code:
 url_dataset:
 url_poster:

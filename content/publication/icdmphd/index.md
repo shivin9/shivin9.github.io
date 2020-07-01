@@ -3,11 +3,11 @@
 
 title: "Extracting Addresses from Unstructured Text using Bi-directional Recurrent Neural Networks"
 authors: ["Shivin Srivastava"]
-date: 2020-06-30T15:16:20+08:00
+date: 2018-06-30T15:16:20+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-30T15:16:20+08:00
+publishDate: 2018-06-30T15:16:20+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: 2020-06-30T15:16:20+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Extracting Addresses from Unstructured Text using Bi-directional Recurrent Neural Networks"
-publication_short: ""
+publication: "_The IEEE International Conference on Data Mining (ICDM) PhD. Forum, Singapore_"
+# publication_short: "ICDM (2018)"
 
 abstract: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: publication/icdmphd/addresses.pdf
 url_code:
 url_dataset:
 url_poster:

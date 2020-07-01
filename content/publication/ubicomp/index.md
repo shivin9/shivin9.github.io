@@ -3,7 +3,7 @@
 
 title: "Studying the Role of Kinect as a Multi-Sensory Learning Platform for Children"
 authors: ["Harsh Sinha, Shivin Srivastava, Yash Sinha"]
-date: 2020-06-30T15:16:00+08:00
+date: 2018-06-30T15:16:00+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +16,8 @@ publishDate: 2020-06-30T15:16:00+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Studying the Role of Kinect as a Multi-Sensory Learning Platform for Children"
-publication_short: ""
+publication: "_The ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), Singapore_"
+# publication_short: "UbiComp (2018)"
 
 abstract: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: publication/ubicomp/kinect.pdf
 url_code:
 url_dataset:
 url_poster:

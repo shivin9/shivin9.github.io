@@ -3,7 +3,7 @@
 
 title: "On the Learning Capabilities of Recurrent Neural Networks- A Cryptographic Perspective"
 authors: ["Shivin Srivastava, Ashutosh Bhatia"]
-date: 2020-06-30T15:15:47+08:00
+date: 2018-06-30T15:15:47+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-06-30T15:15:47+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "_The IEEE International Conference on Big Knowledge (ICBK), Singapore_"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: publication/cryptoml/cryptoml.pdf
 url_code:
 url_dataset:
 url_poster:

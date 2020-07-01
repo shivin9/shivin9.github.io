@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student at School of Computing
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,21 +21,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Clinical Data Analysis
+- Data Mining
+- Natural Language processing
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: National University of Singapore
+    year: 2024
+  - course: ME in Computer Science
+    institution: BITS Pilani
+    year: 2019
+  - course: BE in Computer Science
+    institution: BITS Pilani
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +44,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:shivin.srivastava@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -70,4 +70,5 @@ user_groups:
 - Visitors
 ---
 
-I am a first year Doctoral student at National University of Singapore in the department of Information Systems and Analytics.
+<!-- __Research Goals__:  -->
+I am a first-year Ph.D. student at the National University of Singapore in School of Computing. I am currently working on Clinical Data Analysis with [Prof. Vaibhav Rajan](https://sites.google.com/view/vaibhavrajan/home). Previously, I have worked on Represenation Learning, Natural Language Processing and Association Rule Mining. I have also built an efficient library for solving PDEs with __JuliaLabs__ in MIT. Before NUS, I obtained my Bachelor's and Master's degrees in Computer Science from __BITS Pilani__, India.
