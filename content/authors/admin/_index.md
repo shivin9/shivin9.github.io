@@ -71,4 +71,4 @@ user_groups:
 ---
 
 <!-- __Research Goals__:  -->
-I am a first-year Ph.D. student at the National University of Singapore in School of Computing. I am currently working on Clinical Data Analysis with [Prof. Vaibhav Rajan](https://sites.google.com/view/vaibhavrajan/home). Previously, I have worked on Represenation Learning, Natural Language Processing and Association Rule Mining. I have also built an efficient library for solving PDEs with __JuliaLabs__ in MIT. Before NUS, I obtained my Bachelor's and Master's degrees in Computer Science from __BITS Pilani__, India.
+I am a first-year Ph.D. student at the National University of Singapore in School of Computing. I am currently working on Clinical Data Analysis with [Prof. Vaibhav Rajan](https://sites.google.com/view/vaibhavrajan/home). Previously, I have worked on Represenation Learning, Natural Language Processing and Association Rule Mining. I have also built an efficient library for solving PDEs with __JuliaLabs__ in MIT. Before NUS, I obtained my Bachelor's and Master's degrees in Computer Science from __BITS Pilani__.
