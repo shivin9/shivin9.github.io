@@ -1,23 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Studying the Role of Kinect as a Multi-Sensory Learning Platform for Children (Poster)"
-authors: ["Harsh Sinha, Shivin Srivastava, Yash Sinha"]
-date: 2018-06-30T15:16:00+08:00
+title: "Estimating the Count of k-Frequent Itemsets in a Large Dataset"
+authors: ["Shivin Srivastava", "Siddharth Bhatia", "Jagat Sesh Challa"]
+date: 2020-07-02T15:07:20+08:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-30T15:16:00+08:00
+publishDate: 2020-07-02T15:07:20+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_The ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), Singapore_"
-# publication_short: "UbiComp (2018)"
+publication: "_Under Review_"
+publication_short: ""
 
 abstract: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: publication/ubicomp/kinect.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

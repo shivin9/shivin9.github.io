@@ -13,10 +13,10 @@ publishDate: 2020-06-30T15:05:35+08:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Big Data Research (IF: __2.952__)_"
+publication: "_Big Data Research (IF: __2.952__), In Press_"
 publication_short: ""
 
 abstract: ""

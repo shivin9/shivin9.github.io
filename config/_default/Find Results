@@ -1,0 +1,106 @@
+Searching 494 files for "linkedin" (regex)
+
+/Users/shivin/Document/shivin9.github.io/content/authors/admin/_index.md:
+   60    icon_pack: ai
+   61    link: files/shivin_cv.pdf
+   62: - icon: linkedin-in
+   63    icon_pack: fab
+   64:   link: https://www.linkedin.com/in/shivin9/
+   65  
+   66  # Enter email to display Gravatar (if Gravatar enabled in Config)
+
+/Users/shivin/Document/shivin9.github.io/data/page_sharer.toml:
+   27  
+   28  [[buttons]]
+   29:   id = "linkedin"
+   30:   url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+   31:   title = "LinkedIn"
+   32    icon_pack = "fab"
+   33:   icon = "linkedin-in"
+   34    enable = true
+   35  
+
+/Users/shivin/Document/shivin9.github.io/public/index.html:
+  568          
+  569          <li>
+  570:           <a href="https://www.linkedin.com/in/shivin9/" target="_blank" rel="noopener">
+  571:             <i class="fab fa-linkedin-in big-icon"></i>
+  572            </a>
+  573          </li>
+
+/Users/shivin/Document/shivin9.github.io/public/author/shivin-srivastava/index.html:
+  514          
+  515          <li>
+  516:           <a href="https://www.linkedin.com/in/shivin9/" target="_blank" rel="noopener">
+  517:             <i class="fab fa-linkedin-in big-icon"></i>
+  518            </a>
+  519          </li>
+
+/Users/shivin/Document/shivin9.github.io/public/publication/anyfi/index.html:
+  675        
+  676        <li>
+  677:         <a href="https://www.linkedin.com/shareArticle?url=https://shivin9.github.io/publication/anyfi/&amp;title=AnyFI-%20An%20Anytime%20Frequent%20Itemset%20Mining%20Algorithm%20for%20Data%20Streams" target="_blank" rel="noopener" class="share-btn-linkedin">
+  678:           <i class="fab fa-linkedin-in"></i>
+  679          </a>
+  680        </li>
+
+/Users/shivin/Document/shivin9.github.io/public/publication/cryptoml/index.html:
+  675        
+  676        <li>
+  677:         <a href="https://www.linkedin.com/shareArticle?url=https://shivin9.github.io/publication/cryptoml/&amp;title=On%20the%20Learning%20Capabilities%20of%20Recurrent%20Neural%20Networks-%20A%20Cryptographic%20Perspective" target="_blank" rel="noopener" class="share-btn-linkedin">
+  678:           <i class="fab fa-linkedin-in"></i>
+  679          </a>
+  680        </li>
+
+/Users/shivin/Document/shivin9.github.io/public/publication/estimating_itemsets/index.html:
+  636        
+  637        <li>
+  638:         <a href="https://www.linkedin.com/shareArticle?url=https://shivin9.github.io/publication/estimating_itemsets/&amp;title=Estimating%20the%20Count%20of%20k-Frequent%20Itemsets%20in%20a%20Large%20Dataset" target="_blank" rel="noopener" class="share-btn-linkedin">
+  639:           <i class="fab fa-linkedin-in"></i>
+  640          </a>
+  641        </li>
+
+/Users/shivin/Document/shivin9.github.io/public/publication/icdmphd/index.html:
+  675        
+  676        <li>
+  677:         <a href="https://www.linkedin.com/shareArticle?url=https://shivin9.github.io/publication/icdmphd/&amp;title=Extracting%20Addresses%20from%20Unstructured%20Text%20using%20Bi-directional%20Recurrent%20Neural%20Networks" target="_blank" rel="noopener" class="share-btn-linkedin">
+  678:           <i class="fab fa-linkedin-in"></i>
+  679          </a>
+  680        </li>
+
+/Users/shivin/Document/shivin9.github.io/public/publication/mp-anyfi/index.html:
+  636        
+  637        <li>
+  638:         <a href="https://www.linkedin.com/shareArticle?url=https://shivin9.github.io/publication/mp-anyfi/&amp;title=Anytime%20Frequent%20Itemset%20Mining%20of%20Transactional%20Data%20Streams" target="_blank" rel="noopener" class="share-btn-linkedin">
+  639:           <i class="fab fa-linkedin-in"></i>
+  640          </a>
+  641        </li>
+
+/Users/shivin/Document/shivin9.github.io/public/publication/psocluster/index.html:
+  675        
+  676        <li>
+  677:         <a href="https://www.linkedin.com/shareArticle?url=https://shivin9.github.io/publication/psocluster/&amp;title=A%20novel%20PSO%20based%20algorithm%20to%20find%20initial%20seeds%20for%20the%20k-means%20clustering%20algorithm" target="_blank" rel="noopener" class="share-btn-linkedin">
+  678:           <i class="fab fa-linkedin-in"></i>
+  679          </a>
+  680        </li>
+
+/Users/shivin/Document/shivin9.github.io/public/publication/ubicomp/index.html:
+  675        
+  676        <li>
+  677:         <a href="https://www.linkedin.com/shareArticle?url=https://shivin9.github.io/publication/ubicomp/&amp;title=Studying%20the%20Role%20of%20Kinect%20as%20a%20Multi-Sensory%20Learning%20Platform%20for%20Children%20%28Poster%29" target="_blank" rel="noopener" class="share-btn-linkedin">
+  678:           <i class="fab fa-linkedin-in"></i>
+  679          </a>
+  680        </li>
+
+/Users/shivin/Document/shivin9.github.io/themes/academic/data/page_sharer.toml:
+   27  
+   28  [[buttons]]
+   29:   id = "linkedin"
+   30:   url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+   31:   title = "LinkedIn"
+   32    icon_pack = "fab"
+   33:   icon = "linkedin-in"
+   34    enable = true
+   35  
+
+35 matches across 12 files

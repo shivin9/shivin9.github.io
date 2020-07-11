@@ -105,3 +105,12 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   [[related.indices]]
     name = "authors"
     weight = 20.0
+
+[publications]
+  # Link the title of the publication to the publication
+  links_title = false
+  # Link the authors of the publication to the list of publication made by this author
+  links_authors = false
+
+[cv]
+  new_tab = true
