@@ -62,9 +62,9 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/shivin9/
 
-- icon: user-graduate
-  icon_pack: fas
-  link: files/shivin_cv.pdf
+#- icon: user-graduate
+#  icon_pack: fas
+#  link: files/shivin_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
