@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ublication/anyfi/anyfi.pdf
+url_pdf: publication/anyfi/anyfi.pdf
 url_code:
 url_dataset:
 url_poster:

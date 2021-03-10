@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Estimating the Count of k-Frequent Itemsets in a Large Dataset"
-authors: ["Shivin Srivastava", "Siddharth Bhatia", "Jagat Sesh Challa"]
-date: 2020-07-02T15:07:20+08:00
+title: "CAC: A Clustering Based Framework for Classification"
+authors: ["Shivin Srivastava", "Siddharth Bhatia", "Lingxiao Huang", "Lim Jun Heng", "Kenji Kawaguchi", "Vaibhav Rajan"]
+date: 2021-03-10T09:55:51+05:30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-07-02T15:07:20+08:00
+publishDate: 2021-03-10T09:55:51+05:30
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2020-07-02T15:07:20+08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Under Review_"
+publication: "arXiv"
 publication_short: ""
 
 abstract: ""
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: publication/cac/cac.pdf
+url_code: https://github.com/shivin9/CAC
 url_dataset:
 url_poster:
 url_project:

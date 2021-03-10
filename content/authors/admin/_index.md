@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include clinical data mining and representation learning.
 
 interests:
 - Clinical Data Analysis
-- Data Mining
+- Representation Learning
 - Natural Language processing
 
 education:
@@ -77,4 +77,4 @@ user_groups:
 ---
 
 <!-- __Research Goals__:  -->
-I am a first-year Ph.D. student at the National University of Singapore in School of Computing. I am currently working on Clinical Data Analysis with [Prof. Vaibhav Rajan](https://sites.google.com/view/vaibhavrajan/home). Previously, I have worked on Represenation Learning, Natural Language Processing and Association Rule Mining. I have also built an efficient library for solving PDEs with __JuliaLabs__ in MIT.
+I am a second-year Ph.D. student at the National University of Singapore in School of Computing. I am currently working on Clinical Data Analysis with [Prof. Vaibhav Rajan](https://sites.google.com/view/vaibhavrajan/home). Previously, I have worked on Represenation Learning, Natural Language Processing and Association Rule Mining. I have also built an efficient library for solving PDEs with __JuliaLabs__ in MIT.
