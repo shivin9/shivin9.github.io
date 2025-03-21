@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shivin Srivastava</title>
+    <link>https://shivin9.github.io/author/shivin-srivastava/</link>
+      <atom:link href="https://shivin9.github.io/author/shivin-srivastava/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shivin Srivastava</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shivin Srivastava © 2023</copyright><lastBuildDate>Fri, 10 Mar 2023 09:55:51 +0530</lastBuildDate>
+    <image>
+      <url>https://shivin9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shivin Srivastava</title>
+      <link>https://shivin9.github.io/author/shivin-srivastava/</link>
+    </image>
+    
+    <item>
+      <title>Classification Aware Clustering for Risk Prediction and Subtyping in Clinical Data</title>
+      <link>https://shivin9.github.io/publication/cac_wits/</link>
+      <pubDate>Fri, 10 Mar 2023 09:55:51 +0530</pubDate>
+      <guid>https://shivin9.github.io/publication/cac_wits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EXPERTNET: A Deep Learning Approach to Combined Risk Modeling and Subtyping in Intensive Care Units</title>
+      <link>https://shivin9.github.io/publication/expertnet/</link>
+      <pubDate>Fri, 10 Mar 2023 09:55:51 +0530</pubDate>
+      <guid>https://shivin9.github.io/publication/expertnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MultiNet: A Deep Learning Model for Risk Prediction and Subtyping with Temporal Clinical Data</title>
+      <link>https://shivin9.github.io/publication/multinet/</link>
+      <pubDate>Thu, 15 Dec 2022 09:55:51 +0530</pubDate>
+      <guid>https://shivin9.github.io/publication/multinet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEMSTREAM: Memory-Based Anomaly Detection in Multi-Aspect Streams with Concept Drift</title>
+      <link>https://shivin9.github.io/publication/memstream/</link>
+      <pubDate>Sat, 15 Jan 2022 09:55:51 +0530</pubDate>
+      <guid>https://shivin9.github.io/publication/memstream/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification Aware Clustering for Risk Prediction and Subtyping in Clinical Data</title>
+      <link>https://shivin9.github.io/publication/cac/</link>
+      <pubDate>Wed, 10 Mar 2021 09:55:51 +0530</pubDate>
+      <guid>https://shivin9.github.io/publication/cac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting Addresses from Unstructured Text using Bi-directional Recurrent Neural Networks</title>
+      <link>https://shivin9.github.io/publication/icdmphd/</link>
+      <pubDate>Sat, 30 Jun 2018 15:16:20 +0800</pubDate>
+      <guid>https://shivin9.github.io/publication/icdmphd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Shivin Srivastava</title>
+    <link>https://shivin9.github.io/publication-type/2/</link>
+      <atom:link href="https://shivin9.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shivin Srivastava © 2023</copyright><lastBuildDate>Tue, 30 Jun 2020 15:05:35 +0800</lastBuildDate>
+    <image>
+      <url>https://shivin9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://shivin9.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Anytime Frequent Itemset Mining of Transactional Data Streams</title>
+      <link>https://shivin9.github.io/publication/mp-anyfi/</link>
+      <pubDate>Tue, 30 Jun 2020 15:05:35 +0800</pubDate>
+      <guid>https://shivin9.github.io/publication/mp-anyfi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contents | Shivin Srivastava</title>
+    <link>https://shivin9.github.io/content/</link>
+      <atom:link href="https://shivin9.github.io/content/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contents</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shivin Srivastava © 2023</copyright><lastBuildDate>Sat, 12 Jun 2021 15:27:44 +0530</lastBuildDate>
+    <image>
+      <url>https://shivin9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Contents</title>
+      <link>https://shivin9.github.io/content/</link>
+    </image>
+    
+    <item>
+      <title>Memstream</title>
+      <link>https://shivin9.github.io/content/publication/memstream/</link>
+      <pubDate>Sat, 12 Jun 2021 15:27:44 +0530</pubDate>
+      <guid>https://shivin9.github.io/content/publication/memstream/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

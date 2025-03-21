@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lavika Goel, Nilay Jain, Shivin Srivastava | Shivin Srivastava</title>
+    <link>https://shivin9.github.io/author/lavika-goel-nilay-jain-shivin-srivastava/</link>
+      <atom:link href="https://shivin9.github.io/author/lavika-goel-nilay-jain-shivin-srivastava/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lavika Goel, Nilay Jain, Shivin Srivastava</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Shivin Srivastava © 2023</copyright><lastBuildDate>Thu, 30 Jun 2016 15:16:33 +0800</lastBuildDate>
+    <image>
+      <url>https://shivin9.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Lavika Goel, Nilay Jain, Shivin Srivastava</title>
+      <link>https://shivin9.github.io/author/lavika-goel-nilay-jain-shivin-srivastava/</link>
+    </image>
+    
+    <item>
+      <title>A novel PSO based algorithm to find initial seeds for the k-means clustering algorithm</title>
+      <link>https://shivin9.github.io/publication/psocluster/</link>
+      <pubDate>Thu, 30 Jun 2016 15:16:33 +0800</pubDate>
+      <guid>https://shivin9.github.io/publication/psocluster/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
